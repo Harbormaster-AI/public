@@ -33,9 +33,9 @@ system:
 
     docker:
         inUse:        true
-        username:     tylertravismya
-        password:     69Cutlass
-        orgName:      theharbormaster
+        username:     xxxxxx
+        password:     xxxxxx
+        orgName:      xxxxxx
         repository:   banking-on-go-lang
         tag:          latest
         host:         docker.io
@@ -49,9 +49,9 @@ system:
         inUse:          true
         name:           git_test_go
         host:           https://github.com
-        owner:          Harbormaster-AI
+        owner:          xxxxx
         repository:     banking-core-on-axon4
-        password:       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
+        password:       xxxxx
         tag:            latest
 
     # ------------------------------------------------------------

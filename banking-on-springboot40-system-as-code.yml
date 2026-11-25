@@ -29,9 +29,9 @@ system:
 
     docker:
         inUse:        true
-        username:     tylertravismya
-        password:     69Cutlass
-        orgName:      theharbormaster
+        username:     xxxxxx
+        password:     xxxxxx
+        orgName:      xxxxxx
         repository:   banking-on-spring-boot-4-0
         tag:          latest
         host:         docker.io
@@ -45,9 +45,9 @@ system:
         inUse:          true
         name:           git_test_spring-boot-4-0
         host:           https://github.com
-        owner:          Harbormaster-AI
+        owner:          xxxxx
         repository:     aws-deploy-test
-        password:       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
+        password:       xxxxx
         tag:            latest
 
 

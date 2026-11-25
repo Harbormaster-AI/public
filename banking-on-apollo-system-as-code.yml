@@ -33,8 +33,8 @@ system:
 
     docker:
         inUse:        true
-        username:     tylertravismya
-        password:     69Cutlass
+        username:     xxxxxx
+        password:     xxxxxx
         orgName:      theharbormaster
         repository:   banking_on_apollo
         tag:          latest
@@ -49,9 +49,9 @@ system:
         inUse:          true
         name:           git_test_go
         host:           https://github.com
-        owner:          Harbormaster-AI
+        owner:          xxxx
         repository:     apollo-test
-        password:       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
+        password:       xxxx
         tag:            latest
 
 
