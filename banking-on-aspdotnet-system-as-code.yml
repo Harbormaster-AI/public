@@ -51,7 +51,7 @@ system:
         host:           https://github.com
         owner:          xxxxxx
         repository:     aspdotnet-test
-        password:xx
+        password:
         tag:            latest
 
     # ------------------------------------------------------------

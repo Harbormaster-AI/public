@@ -51,7 +51,7 @@ system:
         host:           https://github.com
         owner:          xxxxx
         repository:     banking-core-on-axon4
-        password:x
+        password:
         tag:            latest
 
     # ------------------------------------------------------------
