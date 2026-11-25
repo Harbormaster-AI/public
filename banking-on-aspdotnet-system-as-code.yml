@@ -34,7 +34,7 @@ system:
     docker:
         inUse:        true
         username:     xxxxxx
-        password:     xxxxxx
+        password:
         orgName:      xxxxxx
         repository:   banking_on_aspdotnet
         tag:          latest
@@ -51,7 +51,7 @@ system:
         host:           https://github.com
         owner:          xxxxxx
         repository:     aspdotnet-test
-        password:       xxxxxx
+        password:xx
         tag:            latest
 
     # ------------------------------------------------------------

@@ -30,7 +30,7 @@ system:
     docker:
         inUse:        true
         username:     xxxxxx
-        password:     xxxxxx
+        password:
         orgName:      xxxxxx
         repository:   banking-on-spring-boot-3-5
         tag:          latest
@@ -47,7 +47,7 @@ system:
         host:           https://github.com
         owner:          xxxxx
         repository:     aws-deploy-test
-        password:       xxxxx
+        password:x
         tag:            latest
 
 
