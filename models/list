@@ -1,0 +1,272 @@
+C:\harbormaster\models\Analytics & AI
+C:\harbormaster\models\Banking
+C:\harbormaster\models\Collaboration
+C:\harbormaster\models\Commerce
+C:\harbormaster\models\Communication
+C:\harbormaster\models\Customer & Party Management
+C:\harbormaster\models\Document & Content
+C:\harbormaster\models\Financial
+C:\harbormaster\models\Governance
+C:\harbormaster\models\Healthcare
+C:\harbormaster\models\Human Resources
+C:\harbormaster\models\Identity and Security
+C:\harbormaster\models\Insurance
+C:\harbormaster\models\Integration
+C:\harbormaster\models\list
+C:\harbormaster\models\Manufacturing
+C:\harbormaster\models\Operations
+C:\harbormaster\models\Product & Catalog
+C:\harbormaster\models\Sales & CRM
+C:\harbormaster\models\Supply Chain
+C:\harbormaster\models\Workflow & Process
+C:\harbormaster\models\Analytics & AI\Analytics.yml
+C:\harbormaster\models\Analytics & AI\Artificial_Intelligence.yml
+C:\harbormaster\models\Analytics & AI\Business Intelligence.yml
+C:\harbormaster\models\Analytics & AI\Dashboard.yml
+C:\harbormaster\models\Analytics & AI\Data Lineage.yml
+C:\harbormaster\models\Analytics & AI\Data Quality.yml
+C:\harbormaster\models\Analytics & AI\Data_Analytics.yml
+C:\harbormaster\models\Analytics & AI\Forecasting.yml
+C:\harbormaster\models\Analytics & AI\Fraud Detection.yml
+C:\harbormaster\models\Analytics & AI\Machine Learning.yml
+C:\harbormaster\models\Analytics & AI\Recommendation Engine.yml
+C:\harbormaster\models\Analytics & AI\Reporting.yml
+C:\harbormaster\models\Banking\Banking.yml
+C:\harbormaster\models\Banking\Commercial Banking.yml
+C:\harbormaster\models\Banking\Core Banking.yml
+C:\harbormaster\models\Banking\Digital Payments.yml
+C:\harbormaster\models\Banking\Fraud Detection.yml
+C:\harbormaster\models\Banking\Loan Origination.yml
+C:\harbormaster\models\Banking\Open Banking.yml
+C:\harbormaster\models\Banking\Trade Finance.yml
+C:\harbormaster\models\Banking\Treasury.yml
+C:\harbormaster\models\Banking\Wealth Management.yml
+C:\harbormaster\models\Collaboration\Calendar.yml
+C:\harbormaster\models\Collaboration\Issue Tracking.yml
+C:\harbormaster\models\Collaboration\Knowledge Sharing.yml
+C:\harbormaster\models\Collaboration\Meeting Management.yml
+C:\harbormaster\models\Collaboration\Project Management.yml
+C:\harbormaster\models\Collaboration\Resource Planning.yml
+C:\harbormaster\models\Collaboration\Team Management.yml
+C:\harbormaster\models\Collaboration\Wiki.yml
+C:\harbormaster\models\Commerce\Checkout.yml
+C:\harbormaster\models\Commerce\ECommerce.yml
+C:\harbormaster\models\Commerce\Fulfillment.yml
+C:\harbormaster\models\Commerce\Gift Cards.yml
+C:\harbormaster\models\Commerce\Loyalty.yml
+C:\harbormaster\models\Commerce\Marketplace Management.yml
+C:\harbormaster\models\Commerce\Order Management.yml
+C:\harbormaster\models\Commerce\Retail.yml
+C:\harbormaster\models\Commerce\Returns Management.yml
+C:\harbormaster\models\Commerce\Shipment Tracking.yml
+C:\harbormaster\models\Commerce\Shopping Cart.yml
+C:\harbormaster\models\Commerce\Subscription Commerce.yml
+C:\harbormaster\models\Communication\Alerting.yml
+C:\harbormaster\models\Communication\Chat.yml
+C:\harbormaster\models\Communication\Document Delivery.yml
+C:\harbormaster\models\Communication\Email.yml
+C:\harbormaster\models\Communication\Messaging.yml
+C:\harbormaster\models\Communication\Notification.yml
+C:\harbormaster\models\Communication\Push Notification.yml
+C:\harbormaster\models\Communication\SMS.yml
+C:\harbormaster\models\Communication\Telecommunications.yml
+C:\harbormaster\models\Communication\Template Management.yml
+C:\harbormaster\models\Communication\Video Communication.yml
+C:\harbormaster\models\Customer & Party Management\Account Management.yml
+C:\harbormaster\models\Customer & Party Management\Address Management.yml
+C:\harbormaster\models\Customer & Party Management\Consent Management.yml
+C:\harbormaster\models\Customer & Party Management\Contact Management.yml
+C:\harbormaster\models\Customer & Party Management\Customer Management.yml
+C:\harbormaster\models\Customer & Party Management\Organization Management.yml
+C:\harbormaster\models\Customer & Party Management\Party Management.yml
+C:\harbormaster\models\Customer & Party Management\Preference Management.yml
+C:\harbormaster\models\Customer & Party Management\Profile Management.yml
+C:\harbormaster\models\Customer & Party Management\Relationship Management.yml
+C:\harbormaster\models\Document & Content\Content Management.yml
+C:\harbormaster\models\Document & Content\Digital Asset Management.yml
+C:\harbormaster\models\Document & Content\Digital_Asset_Management.yml
+C:\harbormaster\models\Document & Content\Document Management.yml
+C:\harbormaster\models\Document & Content\File Management.yml
+C:\harbormaster\models\Document & Content\Knowledge Management.yml
+C:\harbormaster\models\Document & Content\Media Management.yml
+C:\harbormaster\models\Document & Content\Media.yml
+C:\harbormaster\models\Document & Content\OCR.yml
+C:\harbormaster\models\Document & Content\Search.yml
+C:\harbormaster\models\Document & Content\Version Management.yml
+C:\harbormaster\models\Financial\Accounts Payable.yml
+C:\harbormaster\models\Financial\Accounts Receivable.yml
+C:\harbormaster\models\Financial\Billing.yml
+C:\harbormaster\models\Financial\Blockchain.yml
+C:\harbormaster\models\Financial\Budgeting.yml
+C:\harbormaster\models\Financial\Capital_Markets.yml
+C:\harbormaster\models\Financial\Currency Exchange.yml
+C:\harbormaster\models\Financial\Expense Management.yml
+C:\harbormaster\models\Financial\Financial Reporting.yml
+C:\harbormaster\models\Financial\Fintech.yml
+C:\harbormaster\models\Financial\General Ledger.yml
+C:\harbormaster\models\Financial\Invoicing.yml
+C:\harbormaster\models\Financial\Mortgage_Lending.yml
+C:\harbormaster\models\Financial\Payments.yml
+C:\harbormaster\models\Financial\Pricing.yml
+C:\harbormaster\models\Financial\Real_Estate.yml
+C:\harbormaster\models\Financial\Revenue Recognition.yml
+C:\harbormaster\models\Financial\Subscription Management.yml
+C:\harbormaster\models\Financial\Tax Management.yml
+C:\harbormaster\models\Financial\Trade_Finance.yml
+C:\harbormaster\models\Financial\Treasury.yml
+C:\harbormaster\models\Financial\Wealth_Management.yml
+C:\harbormaster\models\Governance\Audit.yml
+C:\harbormaster\models\Governance\Compliance.yml
+C:\harbormaster\models\Governance\Data Retention.yml
+C:\harbormaster\models\Governance\Governance.yml
+C:\harbormaster\models\Governance\Government.yml
+C:\harbormaster\models\Governance\Legal Hold.yml
+C:\harbormaster\models\Governance\Policy Management.yml
+C:\harbormaster\models\Governance\Privacy Management.yml
+C:\harbormaster\models\Governance\Records Management.yml
+C:\harbormaster\models\Governance\Risk Management.yml
+C:\harbormaster\models\Governance\tmp
+C:\harbormaster\models\Healthcare\Biotechnology.yml
+C:\harbormaster\models\Healthcare\Care Coordination.yml
+C:\harbormaster\models\Healthcare\Claims Processing.yml
+C:\harbormaster\models\Healthcare\Clinical Records.yml
+C:\harbormaster\models\Healthcare\Healthcare.yml
+C:\harbormaster\models\Healthcare\Imaging Management.yml
+C:\harbormaster\models\Healthcare\Laboratory Management.yml
+C:\harbormaster\models\Healthcare\Life_Sciences.yml
+C:\harbormaster\models\Healthcare\Medication Management.yml
+C:\harbormaster\models\Healthcare\Patient Management.yml
+C:\harbormaster\models\Healthcare\Pharmaceuticals.yml
+C:\harbormaster\models\Healthcare\Provider Management.yml
+C:\harbormaster\models\Healthcare\Scheduling.yml
+C:\harbormaster\models\Healthcare\tmp
+C:\harbormaster\models\Healthcare\tmp2
+C:\harbormaster\models\Human Resources\Benefits.yml
+C:\harbormaster\models\Human Resources\Employee Management.yml
+C:\harbormaster\models\Human Resources\HR.yml
+C:\harbormaster\models\Human Resources\Learning Management.yml
+C:\harbormaster\models\Human Resources\Onboarding.yml
+C:\harbormaster\models\Human Resources\Payroll.yml
+C:\harbormaster\models\Human Resources\Performance Management.yml
+C:\harbormaster\models\Human Resources\Recruiting.yml
+C:\harbormaster\models\Human Resources\Recruitment.yml
+C:\harbormaster\models\Human Resources\Time Tracking.yml
+C:\harbormaster\models\Human Resources\Workforce Scheduling.yml
+C:\harbormaster\models\Identity and Security\Access Control.yml
+C:\harbormaster\models\Identity and Security\API Key Management.yml
+C:\harbormaster\models\Identity and Security\Audit Logging.yml
+C:\harbormaster\models\Identity and Security\Authentication.yml
+C:\harbormaster\models\Identity and Security\Authorization.yml
+C:\harbormaster\models\Identity and Security\Certificate Management.yml
+C:\harbormaster\models\Identity and Security\Cyber_Security.yml
+C:\harbormaster\models\Identity and Security\Identity Federation.yml
+C:\harbormaster\models\Identity and Security\Identity Management.yml
+C:\harbormaster\models\Identity and Security\Multi-Factor Authentication.yml
+C:\harbormaster\models\Identity and Security\Multi-Tenant Management.yml
+C:\harbormaster\models\Identity and Security\Organization Management.yml
+C:\harbormaster\models\Identity and Security\Permission Management.yml
+C:\harbormaster\models\Identity and Security\Policy Management.yml
+C:\harbormaster\models\Identity and Security\Role Management.yml
+C:\harbormaster\models\Identity and Security\Secrets Management.yml
+C:\harbormaster\models\Identity and Security\Session Management.yml
+C:\harbormaster\models\Identity and Security\Single Sign-On.yml
+C:\harbormaster\models\Identity and Security\User Management.yml
+C:\harbormaster\models\Insurance\Actuarial Analysis.yml
+C:\harbormaster\models\Insurance\Claims Management.yml
+C:\harbormaster\models\Insurance\Insurance.yml
+C:\harbormaster\models\Insurance\Policy Administration.yml
+C:\harbormaster\models\Insurance\Premium Billing.yml
+C:\harbormaster\models\Insurance\Reinsurance.yml
+C:\harbormaster\models\Insurance\Risk Assessment.yml
+C:\harbormaster\models\Insurance\tmp
+C:\harbormaster\models\Insurance\Underwriting.yml
+C:\harbormaster\models\Integration\API Management.yml
+C:\harbormaster\models\Integration\Cloud.yml
+C:\harbormaster\models\Integration\Data Synchronization.yml
+C:\harbormaster\models\Integration\EDI.yml
+C:\harbormaster\models\Integration\ETL.yml
+C:\harbormaster\models\Integration\Event Management.yml
+C:\harbormaster\models\Integration\Gateway Management.yml
+C:\harbormaster\models\Integration\IOT.yml
+C:\harbormaster\models\Integration\Message Queue.yml
+C:\harbormaster\models\Integration\Partner Integration.yml
+C:\harbormaster\models\Integration\Service Registry.yml
+C:\harbormaster\models\Integration\Webhook Management.yml
+C:\harbormaster\models\Manufacturing\Aerospace.yml
+C:\harbormaster\models\Manufacturing\Agriculture.yml
+C:\harbormaster\models\Manufacturing\Automotive.yml
+C:\harbormaster\models\Manufacturing\Bill of Materials.yml
+C:\harbormaster\models\Manufacturing\Capacity Planning.yml
+C:\harbormaster\models\Manufacturing\Food_And_Beverage.yml
+C:\harbormaster\models\Manufacturing\Maintenance Management.yml
+C:\harbormaster\models\Manufacturing\Manufacturing Execution.yml
+C:\harbormaster\models\Manufacturing\Manufacturing.yml
+C:\harbormaster\models\Manufacturing\Production Planning.yml
+C:\harbormaster\models\Manufacturing\Quality Management.yml
+C:\harbormaster\models\Manufacturing\Shop Floor Control.yml
+C:\harbormaster\models\Operations\Configuration Management.yml
+C:\harbormaster\models\Operations\Construction.yml
+C:\harbormaster\models\Operations\Deployment Management.yml
+C:\harbormaster\models\Operations\Energy.yml
+C:\harbormaster\models\Operations\Environment Management.yml
+C:\harbormaster\models\Operations\ERP.yml
+C:\harbormaster\models\Operations\Feature Flags.yml
+C:\harbormaster\models\Operations\Health Management.yml
+C:\harbormaster\models\Operations\Hospitality.yml
+C:\harbormaster\models\Operations\Incident Management.yml
+C:\harbormaster\models\Operations\Logging.yml
+C:\harbormaster\models\Operations\Metrics.yml
+C:\harbormaster\models\Operations\Monitoring.yml
+C:\harbormaster\models\Operations\Observability.yml
+C:\harbormaster\models\Operations\Property_Management.yml
+C:\harbormaster\models\Operations\Smart_Cities.yml
+C:\harbormaster\models\Operations\Sports.yml
+C:\harbormaster\models\Operations\Tracing.yml
+C:\harbormaster\models\Operations\Travel.yml
+C:\harbormaster\models\Operations\Utilities.yml
+C:\harbormaster\models\Product & Catalog\Bundle Management.yml
+C:\harbormaster\models\Product & Catalog\Configuration Management.yml
+C:\harbormaster\models\Product & Catalog\Inventory.yml
+C:\harbormaster\models\Product & Catalog\Pricing Catalog.yml
+C:\harbormaster\models\Product & Catalog\Product Catalog.yml
+C:\harbormaster\models\Product & Catalog\Product Lifecycle Management.yml
+C:\harbormaster\models\Product & Catalog\Promotion Management.yml
+C:\harbormaster\models\Product & Catalog\Quote Management.yml
+C:\harbormaster\models\Product & Catalog\Service Catalog.yml
+C:\harbormaster\models\Sales & CRM\Account Planning.yml
+C:\harbormaster\models\Sales & CRM\Advertising.yml
+C:\harbormaster\models\Sales & CRM\Contract Management.yml
+C:\harbormaster\models\Sales & CRM\CRM.yml
+C:\harbormaster\models\Sales & CRM\Customer Onboard.yml
+C:\harbormaster\models\Sales & CRM\Lead Management.yml
+C:\harbormaster\models\Sales & CRM\Marketing.yml
+C:\harbormaster\models\Sales & CRM\Opportunity Management.yml
+C:\harbormaster\models\Sales & CRM\Partner Management.yml
+C:\harbormaster\models\Sales & CRM\Proposal Management.yml
+C:\harbormaster\models\Sales & CRM\Quote Management.yml
+C:\harbormaster\models\Sales & CRM\Sales Forecasting.yml
+C:\harbormaster\models\Sales & CRM\Sales Pipeline.yml
+C:\harbormaster\models\Sales & CRM\Territory Management.yml
+C:\harbormaster\models\Supply Chain\Asset Management.yml
+C:\harbormaster\models\Supply Chain\Demand Planning.yml
+C:\harbormaster\models\Supply Chain\Fleet Management.yml
+C:\harbormaster\models\Supply Chain\Inventory Management.yml
+C:\harbormaster\models\Supply Chain\Inventory_Management.yml
+C:\harbormaster\models\Supply Chain\Logistics.yml
+C:\harbormaster\models\Supply Chain\Procurement.yml
+C:\harbormaster\models\Supply Chain\Supplier Management.yml
+C:\harbormaster\models\Supply Chain\Supply_Chain.yml
+C:\harbormaster\models\Supply Chain\Transportation Management.yml
+C:\harbormaster\models\Supply Chain\Vendor Management.yml
+C:\harbormaster\models\Supply Chain\Warehouse Management.yml
+C:\harbormaster\models\Workflow & Process\Approval Management.yml
+C:\harbormaster\models\Workflow & Process\Business Process Management.yml
+C:\harbormaster\models\Workflow & Process\Case Management.yml
+C:\harbormaster\models\Workflow & Process\Decision Management.yml
+C:\harbormaster\models\Workflow & Process\Education.yml
+C:\harbormaster\models\Workflow & Process\Escalation Management.yml
+C:\harbormaster\models\Workflow & Process\Rules Engine.yml
+C:\harbormaster\models\Workflow & Process\Scheduling.yml
+C:\harbormaster\models\Workflow & Process\State Machine.yml
+C:\harbormaster\models\Workflow & Process\Task Management.yml
+C:\harbormaster\models\Workflow & Process\Workflow.yml
